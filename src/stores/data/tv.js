@@ -1,7 +1,7 @@
 export const tvData = [{
         "id": "1",
         "product": "TV",
-        "image": "/assets/TV/1.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680202/1_x9u1mk.jpg",
         "brand": "LG",
         "model": "OLED CX Series",
         "price": "1999.00",
@@ -11,7 +11,7 @@ export const tvData = [{
     {
         "id": "2",
         "product": "TV",
-        "image": "/assets/TV/2.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680202/2_uqfwpj.jpg",
         "brand": "Sony",
         "model": "Bravia X90J",
         "price": "1499.00",
@@ -21,7 +21,7 @@ export const tvData = [{
     {
         "id": "3",
         "product": "TV",
-        "image": "/assets/TV/3.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680203/3_kb4xrw.jpg",
         "brand": "Samsung",
         "model": "QLED Q80A",
         "price": "1799.99",
@@ -31,7 +31,7 @@ export const tvData = [{
     {
         "id": "4",
         "product": "TV",
-        "image": "/assets/TV/4.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680212/4_hddulg.jpg",
         "brand": "TCL",
         "model": "6-Series",
         "price": "799.00",
@@ -41,7 +41,7 @@ export const tvData = [{
     {
         "id": "5",
         "product": "TV",
-        "image": "/assets/TV/5.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680212/5_kkip7z.jpg",
         "brand": "Vizio",
         "model": "P-Series Quantum",
         "price": "1199.50",
@@ -51,7 +51,7 @@ export const tvData = [{
     {
         "id": "6",
         "product": "TV",
-        "image": "/assets/TV/6.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680213/6_qpbpvd.jpg",
         "brand": "Hisense",
         "model": "U8G Series",
         "price": "999.00",
@@ -61,7 +61,7 @@ export const tvData = [{
     {
         "id": "7",
         "product": "TV",
-        "image": "/assets/TV/7.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680224/7_btmqbg.jpg",
         "brand": "Panasonic",
         "model": "HZ2000",
         "price": "2499.99",
@@ -71,7 +71,7 @@ export const tvData = [{
     {
         "id": "8",
         "product": "TV",
-        "image": "/assets/TV/8.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680226/8_mg5qdn.jpg",
         "brand": "Sharp",
         "model": "Aquos R5G",
         "price": "1499.00",
@@ -81,7 +81,7 @@ export const tvData = [{
     {
         "id": "9",
         "product": "TV",
-        "image": "/assets/TV/9.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680226/9_vauyfi.jpg",
         "brand": "Philips",
         "model": "Ambilight 4K",
         "price": "999.99",
@@ -91,7 +91,7 @@ export const tvData = [{
     {
         "id": "10",
         "product": "TV",
-        "image": "/assets/TV/10.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680238/11_kvdqr9.png",
         "brand": "Sceptre",
         "model": "X438BV-FSR",
         "price": "299.50",
@@ -101,7 +101,7 @@ export const tvData = [{
     {
         "id": "11",
         "product": "TV",
-        "image": "/assets/TV/11.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680237/10_r7svz2.jpg",
         "brand": "Insignia",
         "model": "Fire TV Edition",
         "price": "349.00",
@@ -111,7 +111,7 @@ export const tvData = [{
     {
         "id": "12",
         "product": "TV",
-        "image": "/assets/TV/12.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680239/12_xryojq.jpg",
         "brand": "Samsung",
         "model": "The Frame",
         "price": "1499.00",

@@ -1,7 +1,7 @@
 export const computerData = [{
         "id": "1",
         "product": "Computer",
-        "image": "/assets/Computers/12.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678438/1_m5ftvh.jpg",
         "company": "Dell",
         "model": "Inspiron 15",
         "price": "899.99",
@@ -11,7 +11,7 @@ export const computerData = [{
     {
         "id": "2",
         "product": "Computer",
-        "image": "/assets/Computers/4.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678439/2_ztz9fd.jpg",
         "company": "HP",
         "model": "Pavilion 27",
         "price": "1299.00",
@@ -21,7 +21,7 @@ export const computerData = [{
     {
         "id": "3",
         "product": "Computer",
-        "image": "/assets/Computers/3.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678439/3_sc3jig.jpg",
         "company": "Apple",
         "model": "MacBook Air",
         "price": "1199.00",
@@ -31,7 +31,7 @@ export const computerData = [{
     {
         "id": "4",
         "product": "Computer",
-        "image": "/assets/Computers/11.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678444/4_oxmbiv.jpg",
         "company": "Lenovo",
         "model": "IdeaPad Flex",
         "price": "799.50",
@@ -41,7 +41,7 @@ export const computerData = [{
     {
         "id": "5",
         "product": "Computer",
-        "image": "/assets/Computers/5.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678444/5_w7yben.jpg",
         "company": "Acer",
         "model": "Predator Helios 300",
         "price": "1299.00",
@@ -51,7 +51,7 @@ export const computerData = [{
     {
         "id": "6",
         "product": "Computer",
-        "image": "/assets/Computers/6.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678449/6_vkienq.jpg",
         "company": "Microsoft",
         "model": "Surface Pro 7",
         "price": "999.99",
@@ -61,7 +61,7 @@ export const computerData = [{
     {
         "id": "7",
         "product": "Computer",
-        "image": "/assets/Computers/7.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678449/7_xduhjn.jpg",
         "company": "Asus",
         "model": "ZenBook 14",
         "price": "899.00",
@@ -71,7 +71,7 @@ export const computerData = [{
     {
         "id": "8",
         "product": "Computer",
-        "image": "/assets/Computers/8.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678450/8_mraoaq.jpg",
         "company": "Alienware",
         "model": "Aurora R10",
         "price": "1999.00",
@@ -81,7 +81,7 @@ export const computerData = [{
     {
         "id": "9",
         "product": "Computer",
-        "image": "/assets/Computers/9.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678453/9_keyirh.jpg",
         "company": "HP",
         "model": "EliteBook 840",
         "price": "1299.00",
@@ -91,7 +91,7 @@ export const computerData = [{
     {
         "id": "10",
         "product": "Computer",
-        "image": "/assets/Computers/10.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678457/10_nylskb.jpg",
         "company": "Lenovo",
         "model": "ThinkCentre M720",
         "price": "799.00",
@@ -101,7 +101,7 @@ export const computerData = [{
     {
         "id": "11",
         "product": "Computer",
-        "image": "/assets/Computers/2.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678457/11_jzwmdq.jpg",
         "company": "Dell",
         "model": "XPS 13",
         "price": "1499.00",
@@ -111,7 +111,7 @@ export const computerData = [{
     {
         "id": "12",
         "product": "Computer",
-        "image": "/assets/Computers/1.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678458/12_lque6d.jpg",
         "company": "Acer",
         "model": "Chromebook 14",
         "price": "349.99",

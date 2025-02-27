@@ -1,7 +1,7 @@
 export const menData = [{
         "id": "1",
         "product": "Menswear",
-        "image": "/assets/MenWear/1.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679706/1_x0y6nq.jpg",
         "type": "T-Shirt",
         "brand": "Nike",
         "model": "Sporty Tee",
@@ -12,7 +12,7 @@ export const menData = [{
     {
         "id": "2",
         "product": "Menswear",
-        "image": "/assets/MenWear/2.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679706/2_rlajxs.jpg",
         "type": "Dress Shirt",
         "brand": "Calvin Klein",
         "model": "ClassicFit",
@@ -23,7 +23,7 @@ export const menData = [{
     {
         "id": "3",
         "product": "Menswear",
-        "image": "/assets/MenWear/3.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679707/3_ip62rl.jpg",
         "type": "Jeans",
         "brand": "Levi's",
         "model": "511 Slim Fit",
@@ -34,7 +34,7 @@ export const menData = [{
     {
         "id": "4",
         "product": "Menswear",
-        "image": "/assets/MenWear/4.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679715/4_wk4nmg.jpg",
         "type": "Polo Shirt",
         "brand": "Ralph Lauren",
         "model": "Signature Polo",
@@ -45,7 +45,7 @@ export const menData = [{
     {
         "id": "5",
         "product": "Menswear",
-        "image": "/assets/MenWear/5.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679715/5_qdvleg.jpg",
         "type": "Jacket",
         "brand": "The North Face",
         "model": "Apex Bionic",
@@ -56,7 +56,7 @@ export const menData = [{
     {
         "id": "6",
         "product": "Menswear",
-        "image": "/assets/MenWear/6.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679719/6_lmr87t.jpg",
         "type": "Shorts",
         "brand": "Under Armour",
         "model": "Tech Mesh Shorts",
@@ -67,7 +67,7 @@ export const menData = [{
     {
         "id": "7",
         "product": "Menswear",
-        "image": "/assets/MenWear/7.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679724/7_zggj8w.jpg",
         "type": "Sweater",
         "brand": "Tommy Hilfiger",
         "model": "Crewneck Sweater",
@@ -78,7 +78,7 @@ export const menData = [{
     {
         "id": "8",
         "product": "Menswear",
-        "image": "/assets/MenWear/8.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679725/8_javoxo.jpg",
         "type": "Suit",
         "brand": "Hugo Boss",
         "model": "ModernFit Suit",
@@ -89,7 +89,7 @@ export const menData = [{
     {
         "id": "9",
         "product": "Menswear",
-        "image": "/assets/MenWear/9.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679731/9_elmhjy.jpg",
         "type": "Hoodie",
         "brand": "Adidas",
         "model": "Essentials Hoodie",
@@ -100,7 +100,7 @@ export const menData = [{
     {
         "id": "10",
         "product": "Menswear",
-        "image": "/assets/MenWear/10.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679731/10_mwxlxw.jpg",
         "type": "Chinos",
         "brand": "Dockers",
         "model": "Alpha Khaki",
@@ -111,7 +111,7 @@ export const menData = [{
     {
         "id": "11",
         "product": "Menswear",
-        "image": "/assets/MenWear/11.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679734/11_uh5v4v.jpg",
         "type": "Swim Trunks",
         "brand": "Speedo",
         "model": "Endurance+ Swim Trunks",
@@ -122,7 +122,7 @@ export const menData = [{
     {
         "id": "12",
         "product": "Menswear",
-        "image": "/assets/MenWear/12.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679735/12_lhaegd.jpg",
         "type": "Blazer",
         "brand": "Brothers",
         "model": "Classic Blazer",

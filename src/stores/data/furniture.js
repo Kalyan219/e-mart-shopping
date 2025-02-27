@@ -1,7 +1,7 @@
 export const furnitureData = [{
         "id": "1",
         "product": "Furniture",
-        "image": "/assets/Furniture/1.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679182/1_c9vw33.jpg",
         "type": "Sofa",
         "brand": "IKEA",
         "model": "ComfortPlus",
@@ -12,7 +12,7 @@ export const furnitureData = [{
     {
         "id": "2",
         "product": "Furniture",
-        "image": "/assets/Furniture/2.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679182/2_kjgd2e.jpg",
         "type": "Dining Table",
         "brand": "Wayfair",
         "model": "ElegantDine",
@@ -23,7 +23,7 @@ export const furnitureData = [{
     {
         "id": "3",
         "product": "Furniture",
-        "image": "/assets/Furniture/3.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679183/3_i4br2b.jpg",
         "type": "Bed",
         "brand": "Ashley ",
         "model": "DreamRest",
@@ -34,7 +34,7 @@ export const furnitureData = [{
     {
         "id": "4",
         "product": "Furniture",
-        "image": "/assets/Furniture/4.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679185/4_vaiqyl.jpg",
         "type": "Coffee Table",
         "brand": "West Elm",
         "model": "ModernBlend",
@@ -45,7 +45,7 @@ export const furnitureData = [{
     {
         "id": "5",
         "product": "Furniture",
-        "image": "/assets/Furniture/5.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679192/5_onmikk.jpg",
         "type": "Wardrobe",
         "brand": "Houzz",
         "model": "SpaceSaver",
@@ -56,7 +56,7 @@ export const furnitureData = [{
     {
         "id": "6",
         "product": "Furniture",
-        "image": "/assets/Furniture/6.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679192/6_ynidt9.jpg",
         "type": "Bookshelf",
         "brand": "Crate & Barrel",
         "model": "BookHaven",
@@ -67,7 +67,7 @@ export const furnitureData = [{
     {
         "id": "7",
         "product": "Furniture",
-        "image": "/assets/Furniture/7.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679193/7_emajl4.jpg",
         "type": "Desk",
         "brand": "Staples",
         "model": "WorkPro",
@@ -78,7 +78,7 @@ export const furnitureData = [{
     {
         "id": "8",
         "product": "Furniture",
-        "image": "/assets/Furniture/8.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679199/8_kuprwu.jpg",
         "type": "Bar Stool",
         "brand": "Target",
         "model": "UrbanChic",
@@ -89,7 +89,7 @@ export const furnitureData = [{
     {
         "id": "9",
         "product": "Furniture",
-        "image": "/assets/Furniture/9.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679199/9_hg53hk.jpg",
         "type": "Dresser",
         "brand": "Pottery Barn",
         "model": "RusticCharm",
@@ -100,7 +100,7 @@ export const furnitureData = [{
     {
         "id": "10",
         "product": "Furniture",
-        "image": "/assets/Furniture/10.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679200/10_ihdab2.jpg",
         "type": "Couch",
         "brand": "Crate & Barrel",
         "model": "ComfyLounge",
@@ -111,7 +111,7 @@ export const furnitureData = [{
     {
         "id": "11",
         "product": "Furniture",
-        "image": "/assets/Furniture/11.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679206/11_qzajan.jpg",
         "type": "Side Table",
         "brand": "CB2",
         "model": "MinimalistSide",
@@ -122,7 +122,7 @@ export const furnitureData = [{
     {
         "id": "12",
         "product": "Furniture",
-        "image": "/assets/Furniture/12.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679208/12_qh5mk0.jpg",
         "type": "Bedside Table",
         "brand": "Ethan Allen",
         "model": "ClassicNight",

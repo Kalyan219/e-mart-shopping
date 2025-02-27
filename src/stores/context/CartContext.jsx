@@ -10,7 +10,7 @@ export const CartProvider = ({children}) => {
     }
 
     const removeFromCart = (item) => {
-        setCartItems(cartItems.filter((apple) => apple !== item))
+        setCartItems(cartItems.filter((apple) => apple.id !== item.id))
     }
 
     return (

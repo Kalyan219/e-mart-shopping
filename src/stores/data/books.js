@@ -1,7 +1,7 @@
 export const booksData = [{
         "id": "1",
         "product": "Book",
-        "image": "/assets/Books/1.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740677889/12_hdmdwo.jpg",
         "title": "The Great Gatsby",
         "author": "F. Scott Fitzgerald",
         "price": "12.99",
@@ -11,7 +11,7 @@ export const booksData = [{
     {
         "id": "2",
         "product": "Book",
-        "image": "/assets/Books/2.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678233/2_cgtchl.jpg",
         "title": "To Kill a Mockingbird",
         "author": "Harper Lee",
         "price": "10.50",
@@ -21,7 +21,7 @@ export const booksData = [{
     {
         "id": "3",
         "product": "Book",
-        "image": "/assets/Books/3.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678233/3_x70xrn.jpg",
         "title": "1984",
         "author": "George Orwell",
         "price": "9.99",
@@ -31,7 +31,7 @@ export const booksData = [{
     {
         "id": "4",
         "product": "Book",
-        "image": "/assets/Books/4.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678234/4_q5lgwn.jpg",
         "title": "Pride and Prejudice",
         "author": "Jane Austen",
         "price": "8.75",
@@ -41,7 +41,7 @@ export const booksData = [{
     {
         "id": "5",
         "product": "Book",
-        "image": "/assets/Books/5.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678234/5_dqba71.jpg",
         "title": "The Hobbit",
         "author": "J.R.R. Tolkien",
         "price": "14.99",
@@ -51,7 +51,7 @@ export const booksData = [{
     {
         "id": "6",
         "product": "Book",
-        "image": "/assets/Books/6.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678240/6_gofrzu.jpg",
         "title": "Harry Potter and the Sorcerer's Stone",
         "author": "J.K. Rowling",
         "price": "11.25",
@@ -61,7 +61,7 @@ export const booksData = [{
     {
         "id": "7",
         "product": "Book",
-        "image": "/assets/Books/7.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678241/7_ulmo7f.jpg",
         "title": "The Catcher in the Rye",
         "author": "J.D. Salinger",
         "price": "9.50",
@@ -71,7 +71,7 @@ export const booksData = [{
     {
         "id": "8",
         "product": "Book",
-        "image": "/assets/Books/8.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678242/8_lc1ofg.jpg",
         "title": "The Lord of the Rings",
         "author": "J.R.R. Tolkien",
         "price": "24.99",
@@ -81,7 +81,7 @@ export const booksData = [{
     {
         "id": "9",
         "product": "Book",
-        "image": "/assets/Books/9.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678245/9_mxgvq2.jpg",
         "title": "The Hunger Games",
         "author": "Suzanne Collins",
         "price": "13.75",
@@ -91,7 +91,7 @@ export const booksData = [{
     {
         "id": "10",
         "product": "Book",
-        "image": "/assets/Books/10.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678246/10_n6wg0x.jpg",
         "title": "Brave New World",
         "author": "Aldous Huxley",
         "price": "10.99",
@@ -101,7 +101,7 @@ export const booksData = [{
     {
         "id": "11",
         "product": "Book",
-        "image": "/assets/Books/11.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678247/11_mlwdeo.jpg",
         "title": "The Alchemist",
         "author": "Paulo Coelho",
         "price": "7.99",
@@ -111,7 +111,7 @@ export const booksData = [{
     {
         "id": "12",
         "product": "Book",
-        "image": "/assets/Books/12.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740678254/12_ckldmb.jpg",
         "title": "The Girl on the Train",
         "author": "Paula Hawkins",
         "price": "9.25",

@@ -1,7 +1,7 @@
 export const kitchenData = [{
         "id": "1",
         "product": "Kitchen",
-        "image": "/assets/Kitchen/1.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679445/1_ycc2t7.jpg",
         "type": "Blender",
         "brand": "Vitamix",
         "model": "PowerBlend 5000",
@@ -12,7 +12,7 @@ export const kitchenData = [{
     {
         "id": "2",
         "product": "Kitchen",
-        "image": "/assets/Kitchen/2.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679445/2_luwifg.jpg",
         "type": "Cookware Set",
         "brand": "Calphalon",
         "model": "Classic Nonstick",
@@ -23,7 +23,7 @@ export const kitchenData = [{
     {
         "id": "3",
         "product": "Kitchen",
-        "image": "/assets/Kitchen/3.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679445/3_ld2w2d.jpg",
         "type": "Coffee Maker",
         "brand": "Keurig",
         "model": "K-Elite",
@@ -34,7 +34,7 @@ export const kitchenData = [{
     {
         "id": "4",
         "product": "Kitchen",
-        "image": "/assets/Kitchen/4.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679452/4_syriz9.jpg",
         "type": "Knife Set",
         "brand": "Wusthof",
         "model": "Classic Knife Block",
@@ -45,7 +45,7 @@ export const kitchenData = [{
     {
         "id": "5",
         "product": "Kitchen",
-        "image": "/assets/Kitchen/5.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679453/5_f2yrl7.jpg",
         "type": "Stand Mixer",
         "brand": "KitchenAid",
         "model": "Artisan Series",
@@ -56,7 +56,7 @@ export const kitchenData = [{
     {
         "id": "6",
         "product": "Kitchen",
-        "image": "/assets/Kitchen/6.png",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679453/6_hnhv6m.png",
         "type": "Baking Set",
         "brand": "Pyrex",
         "model": "Bake & Store",
@@ -67,7 +67,7 @@ export const kitchenData = [{
     {
         "id": "7",
         "product": "Kitchen",
-        "image": "/assets/Kitchen/7.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679461/7_liq5uo.jpg",
         "type": "Rice Cooker",
         "brand": "Zojirushi",
         "model": "Neuro Fuzzy",
@@ -78,7 +78,7 @@ export const kitchenData = [{
     {
         "id": "8",
         "product": "Kitchen",
-        "image": "/assets/Kitchen/8.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679461/8_eqj0jc.jpg",
         "type": "Utensil Set",
         "brand": "OXO",
         "model": "Good Grips",
@@ -89,7 +89,7 @@ export const kitchenData = [{
     {
         "id": "9",
         "product": "Kitchen",
-        "image": "/assets/Kitchen/9.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679462/9_irlt70.jpg",
         "type": "Food Processor",
         "brand": "Cuisinart",
         "model": "DLC-8SBCY",
@@ -100,7 +100,7 @@ export const kitchenData = [{
     {
         "id": "10",
         "product": "Kitchen",
-        "image": "/assets/Kitchen/10.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679470/10_qub1ne.jpg",
         "type": "Mixer",
         "brand": "OXO",
         "model": "Handheld Mixer",
@@ -111,7 +111,7 @@ export const kitchenData = [{
     {
         "id": "11",
         "product": "Kitchen",
-        "image": "/assets/Kitchen/11.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679474/11_vmudkp.jpg",
         "type": "Dish Set",
         "brand": "Corelle",
         "model": "Classic Winter Frost",
@@ -122,7 +122,7 @@ export const kitchenData = [{
     {
         "id": "12",
         "product": "Kitchen",
-        "image": "/assets/Kitchen/12.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740679475/12_jomfoo.jpg",
         "type": "Slow Cooker",
         "brand": "Crock-Pot",
         "model": "Programmable Slow Cooker",

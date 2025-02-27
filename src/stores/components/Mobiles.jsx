@@ -11,13 +11,13 @@ const Mobiles = () => {
 
        <div className='proSection'>
          {
-            firstFiveImages.map((item) => {
-                return (
-                    <div className='imgBox'>
-                        <img src={item.image} alt="mobile" className='proImage'/>
+            firstFiveImages.map((item) => 
+                 (
+                    <div className='imgBox' key={item.id}>
+                        <img src={item.image} alt={item.company} className='proImage'/>
                     </div>
                 )
-            })
+            )
          }
        </div>
     </>

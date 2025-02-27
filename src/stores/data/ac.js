@@ -1,7 +1,7 @@
 export const acData = [{
         "id": "1",
         "product": "Air Conditioner",
-        "image": "/assets/Ac/1.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740677883/1_z6ocn9.jpg",
         "company": "LG",
         "model": "CoolTech 5000",
         "price": "799.99",
@@ -11,7 +11,7 @@ export const acData = [{
     {
         "id": "2",
         "product": "AC Unit",
-        "image": "/assets/Ac/2.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740677884/2_dkjh8z.jpg",
         "company": "Daikin",
         "model": "ClimateMaster Pro",
         "price": "1299.00",
@@ -21,7 +21,7 @@ export const acData = [{
     {
         "id": "3",
         "product": "Cooling System",
-        "image": "/assets/Ac/3.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740677883/3_d0qs29.jpg",
         "company": "Carrier",
         "model": "Arctic Breeze 300",
         "price": "899.99",
@@ -31,7 +31,7 @@ export const acData = [{
     {
         "id": "4",
         "product": "Air Cooler",
-        "image": "/assets/Ac/4.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740677884/4_llpthk.jpg",
         "company": "Honeywell",
         "model": "FrostFlow XL",
         "price": "299.50",
@@ -41,7 +41,7 @@ export const acData = [{
     {
         "id": "5",
         "product": "Window AC",
-        "image": "/assets/Ac/5.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740677884/5_sh3eqw.jpg",
         "company": "Whirlpool",
         "model": "ChillGuard 800",
         "price": "549.00",
@@ -51,7 +51,7 @@ export const acData = [{
     {
         "id": "6",
         "product": "Smart AC",
-        "image": "/assets/Ac/6.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740677885/6_gkygir.jpg",
         "company": "Nest",
         "model": "EcoCool Smart+",
         "price": "899.99",
@@ -61,7 +61,7 @@ export const acData = [{
     {
         "id": "7",
         "product": "Inverter AC",
-        "image": "/assets/Ac/7.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740677886/7_wb3bta.jpg",
         "company": "Mitsubishi",
         "model": "SilentComfort 1200i",
         "price": "1499.00",
@@ -71,7 +71,7 @@ export const acData = [{
     {
         "id": "8",
         "product": "Portable AC",
-        "image": "/assets/Ac/8.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740677886/8_f20coy.jpg",
         "company": "Frigidaire",
         "model": "EZCool Portable 400",
         "price": "399.99",
@@ -81,7 +81,7 @@ export const acData = [{
     {
         "id": "9",
         "product": "Ducted AC",
-        "image": "/assets/Ac/9.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740677887/9_j80fub.jpg",
         "company": "Lennox",
         "model": "PureAir Ducted 6000",
         "price": "2499.00",
@@ -91,7 +91,7 @@ export const acData = [{
     {
         "id": "10",
         "product": "Wall-Mount AC",
-        "image": "/assets/Ac/10.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740677888/10_hifylu.jpg",
         "company": "Panasonic",
         "model": "WallMaster Pro 1800",
         "price": "749.00",
@@ -101,7 +101,7 @@ export const acData = [{
     {
         "id": "11",
         "product": "Split AC",
-        "image": "/assets/Ac/11.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740677888/11_netdoc.jpg",
         "company": "Haier",
         "model": "CoolWave Split 220",
         "price": "649.50",
@@ -111,7 +111,7 @@ export const acData = [{
     {
         "id": "12",
         "product": "Central AC",
-        "image": "/assets/Ac/12.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740677889/12_hdmdwo.jpg",
         "company": "Trane",
         "model": "ClimateCentral 5000",
         "price": "2999.00",

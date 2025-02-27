@@ -1,7 +1,7 @@
 export const watchData = [{
         "id": "1",
         "product": "Watch",
-        "image": "/assets/Watch/1.png",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680478/1_m4r5kb.png",
         "brand": "Apple",
         "model": "Watch Series 7",
         "price": "399.00",
@@ -11,7 +11,7 @@ export const watchData = [{
     {
         "id": "2",
         "product": "Watch",
-        "image": "/assets/Watch/2.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680478/2_n7ncs3.jpg",
         "brand": "Samsung",
         "model": "Galaxy Watch 4",
         "price": "299.99",
@@ -21,7 +21,7 @@ export const watchData = [{
     {
         "id": "3",
         "product": "Watch",
-        "image": "/assets/Watch/3.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680479/3_qfv1iq.jpg",
         "brand": "Fitbit",
         "model": "Versa 3",
         "price": "229.00",
@@ -31,7 +31,7 @@ export const watchData = [{
     {
         "id": "4",
         "product": "Watch",
-        "image": "/assets/Watch/4.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680488/4_gyp3ko.jpg",
         "brand": "Garmin",
         "model": "Forerunner 945",
         "price": "599.50",
@@ -41,7 +41,7 @@ export const watchData = [{
     {
         "id": "5",
         "product": "Watch",
-        "image": "/assets/Watch/5.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680489/5_my0793.jpg",
         "brand": "Fossil",
         "model": "Gen 5",
         "price": "249.00",
@@ -51,7 +51,7 @@ export const watchData = [{
     {
         "id": "6",
         "product": "Watch",
-        "image": "/assets/Watch/6.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680496/6_fdnxjz.jpg",
         "brand": "Casio",
         "model": "G-Shock GA-2100",
         "price": "129.99",
@@ -61,7 +61,7 @@ export const watchData = [{
     {
         "id": "7",
         "product": "Watch",
-        "image": "/assets/Watch/7.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680497/7_j8tuhs.jpg",
         "brand": "TAG Heuer",
         "model": "Carrera Calibre Heuer 02",
         "price": "5999.00",
@@ -71,7 +71,7 @@ export const watchData = [{
     {
         "id": "8",
         "product": "Watch",
-        "image": "/assets/Watch/8.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680505/8_aclydr.jpg",
         "brand": "Timex",
         "model": "Weekender Chronograph",
         "price": "89.00",
@@ -81,7 +81,7 @@ export const watchData = [{
     {
         "id": "9",
         "product": "Watch",
-        "image": "/assets/Watch/9.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680506/9_at0rr8.jpg",
         "brand": "Citizen",
         "model": "Eco-Drive Promaster",
         "price": "299.99",
@@ -91,7 +91,7 @@ export const watchData = [{
     {
         "id": "10",
         "product": "Watch",
-        "image": "/assets/Watch/10.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680511/10_if0rht.jpg",
         "brand": "Seiko",
         "model": "SKX007",
         "price": "199.50",
@@ -101,7 +101,7 @@ export const watchData = [{
     {
         "id": "11",
         "product": "Watch",
-        "image": "/assets/Watch/11.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680517/11_iqhhjc.jpg",
         "brand": "Michael Kors",
         "model": "Access Lexington 2",
         "price": "279.00",
@@ -111,7 +111,7 @@ export const watchData = [{
     {
         "id": "12",
         "product": "Watch",
-        "image": "/assets/Watch/12.jpg",
+        "image": "https://res.cloudinary.com/do6gfsc8z/image/upload/v1740680519/12_yvxhnb.jpg",
         "brand": "Huawei",
         "model": "Watch GT 3",
         "price": "199.00",
